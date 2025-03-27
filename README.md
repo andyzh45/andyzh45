@@ -2,9 +2,10 @@
 
 I'm Andy, a data science enthusiast specializing in Python and R. My areas of interest and experience include:
 
-- Probability models & statistical analysis
-- Machine learning
+- Probability models
+- Bayesian statistics
 - Mathematical optimization
+- Machine learning
 - Spatial modeling
 - Data visualization
 - Data pipeline architecture
