@@ -4,8 +4,7 @@ I'm Andy, a data science enthusiast specializing in Python and R. My areas of in
 
 - Probability theory, Bayesian statistics, and mathematical optimization
 - Machine learning
-- Spatial modeling
-- Data visualization
+- Data visualization and spatial modeling
 - Data pipeline architecture
 
-I enjoy applying these subjects to solve real-world problems, with a particular focus on physics, medicine, transportation logistics, and finance.
+I enjoy applying these skills to physics, logistics, and economics.
