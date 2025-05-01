@@ -7,4 +7,4 @@ I'm Andy, a data science enthusiast specializing in Python and R. My areas of in
 - Data visualization and spatial modeling
 - Data pipeline architecture
 
-I enjoy applying these skills to physics, logistics, and economics.
+I also work on applications of data science in physics, logistics, and economics.
